@@ -17,7 +17,7 @@
 
 ---
 
-## ðŸ§‘â€ðŸ’» About Me
+## Arul » About Me
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
@@ -49,7 +49,7 @@ const arul = {
 
 ---
 
-## ðŸ› ï¸ Tech Stack
+## Arul¸» Tech Stack
 
 **Languages**
 
@@ -82,7 +82,7 @@ const arul = {
 
 ---
 
-## ðŸ“Š GitHub Stats
+## Arul » GitHub Stats
 
 <div align="center">
   <a href="https://github.com/arul0901">
@@ -95,7 +95,7 @@ const arul = {
 
 ---
 
-## ðŸ”¥ Streak Stats
+## Arul » Streak Stats
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=arul0901&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak" />
@@ -103,7 +103,7 @@ const arul = {
 
 ---
 
-## ðŸ“ˆ Activity Graph
+## Arul » Activity Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=arul0901&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph" />
@@ -111,7 +111,7 @@ const arul = {
 
 ---
 
-## ðŸ† Trophy Wall
+## Arul » Trophy Wall
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=arul0901&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Trophies" />
@@ -119,7 +119,7 @@ const arul = {
 
 ---
 
-## ðŸ’¼ Work Experience
+## Arul » Work Experience
 
 <details>
   <summary>ðŸ¤– <strong>AI and ML Intern â€” AiRobosoft LLP Services</strong> &nbsp;|&nbsp; Jun 2025 â€“ Jul 2025 &nbsp;|&nbsp; Remote</summary>
@@ -159,7 +159,7 @@ const arul = {
 
 ---
 
-## ðŸš€ Featured Projects
+## Arul » Featured Projects
 
 <div align="center">
 
@@ -172,7 +172,7 @@ const arul = {
 
 ---
 
-## ðŸ… Achievements & Certifications
+## Arul » Achievements & Certifications
 
 <div align="center">
 
@@ -187,7 +187,7 @@ const arul = {
 
 ---
 
-## ðŸŽ“ Education
+## Arul » Education
 
 <div align="center">
 
@@ -199,7 +199,7 @@ const arul = {
 
 ---
 
-## ðŸ§  Currently Learning
+## Arul » Currently Learning
 
 ```
 ðŸ”· TypeScript         â†’ Advanced types, generics, decorators
@@ -211,7 +211,7 @@ const arul = {
 
 ---
 
-## ðŸ¤ Let's Connect
+## Arul » Let's Connect
 
 <p align="center">
   <a href="mailto:arulbalamurugansri@gmail.com">
